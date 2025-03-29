@@ -26,7 +26,7 @@ define( 'DB_NAME', 'astrology' );
 define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'visys@123' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
